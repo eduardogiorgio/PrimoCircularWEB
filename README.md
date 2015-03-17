@@ -1,2 +1,2 @@
-# PrimoCircularWEB
-Programa que calcula si un numero ingresado es unprimo circular
+# primoCircular
+Pagina web que permite verificar si un numero es un Primo Circular
